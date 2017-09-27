@@ -1,0 +1,15 @@
+Tempo,Temperatura,Humidade,Vento,Jogar
+Chuvoso,71,91,sim,não
+Soalheiro,69,70,não,sim
+Soalheiro,80,90,sim,não
+Nublado,83,86,não,sim
+Chuvoso,70,96,não,sim
+Chuvoso,65,70,sim,não
+Nublado,64,65,sim,sim
+Nublado,72,90,sim,sim
+Soalheiro,75,70,sim,sim
+Chuvoso,68,80,não,sim
+Nublado,81,75,não,sim
+Soalheiro,85,85,não,não
+Soalheiro,72,95,não,não
+Chuvoso,75,80,não,sim
